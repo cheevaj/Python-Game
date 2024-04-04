@@ -1,7 +1,6 @@
 ﻿# Python-Game
 
 # Image-Recognition-Botting-Tutorial
-Hello! This is the code I use in the https://www.youtube.com/watch?v=YRAIUA-Oc1Y video
 
 Install these libraries from an administrator terminal (windows):
 
